@@ -1,0 +1,13 @@
+name: hw2_env
+dependencies: 
+  - python 3.8
+  - torchvision
+  - pytorch
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - pip:
+    - torchvision==0.6.0
+    - torch
+    - gdown
